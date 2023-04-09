@@ -1,4 +1,4 @@
-import styled from 'section.styled';
+import styled from 'styled-components';
 
 export const SectionContainer = styled.section`
   margin-bottom: 16px;
